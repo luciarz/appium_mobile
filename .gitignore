@@ -1,0 +1,6 @@
+*.log
+*.html
+*.xml
+*.txt
+*.jpg
+.DS_Store
